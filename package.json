@@ -64,7 +64,7 @@
     "@faker-js/faker": "^9.2.0",
     "@nestjs/cli": "^10.4.8",
     "@nestjs/schematics": "^10.2.3",
-    "@nestjs/testing": "^10.4.8",
+    "@nestjs/testing": "^10.4.9",
     "@next/eslint-plugin-next": "^15.0.3",
     "@types/cookie-parser": "^1.4.7",
     "@types/express": "^5.0.0",
