@@ -81,10 +81,10 @@
     ora "5.4.1"
     rxjs "7.8.1"
 
-"@apollo/client@^4.0.8":
-  version "4.0.8"
-  resolved "https://registry.yarnpkg.com/@apollo/client/-/client-4.0.8.tgz#8cce05df431cfabf6db411501837f6402d97190d"
-  integrity sha512-oRnIcQjg8q22Fj1GaBUp+udhJswUtTMPM10v/8qb6xccluUpnYr9hPMiZkd+rcJKfg56OAsRJpvGKr18jkXcuw==
+"@apollo/client@^4.0.9":
+  version "4.0.9"
+  resolved "https://registry.yarnpkg.com/@apollo/client/-/client-4.0.9.tgz#fdc0388f73a1640f3da30a8791e448b96ad0b49a"
+  integrity sha512-Lh2drMzFE9x5jVS8RKmlGL5SORkvpyUJIT+wTErxDUR2HpWePiBfhhcHHRSlZFiCR866ewCv4euTc4IDF0GWxw==
   dependencies:
     "@graphql-typed-document-node/core" "^3.1.1"
     "@wry/caches" "^1.0.0"
