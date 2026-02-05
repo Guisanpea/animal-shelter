@@ -26,7 +26,7 @@
     "cy": "cypress"
   },
   "dependencies": {
-    "@apollo/client": "^4.1.3",
+    "@apollo/client": "^4.1.4",
     "@apollo/gateway": "^2.13.0",
     "@babel/runtime": "^7.28.6",
     "@nestjs/apollo": "^10.2.0",
