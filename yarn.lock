@@ -896,10 +896,10 @@
   resolved "https://registry.yarnpkg.com/@eslint/object-schema/-/object-schema-2.1.7.tgz#6e2126a1347e86a4dedf8706ec67ff8e107ebbad"
   integrity sha512-VtAOaymWVfZcmZbp6E2mympDIHvyjXs/12LqWYjVw6qjrfF+VK+fyG33kChz3nnK+SU5/NeHOqrTEHS8sXO3OA==
 
-"@faker-js/faker@^10.2.0":
-  version "10.2.0"
-  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-10.2.0.tgz#91028d4086969825795de331c305e8b91414bcb7"
-  integrity sha512-rTXwAsIxpCqzUnZvrxVh3L0QA0NzToqWBLAhV+zDV3MIIwiQhAZHMdPCIaj5n/yADu/tyk12wIPgL6YHGXJP+g==
+"@faker-js/faker@^10.3.0":
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-10.3.0.tgz#d56b68e4f1dd090152029fe91d2f8505389947f2"
+  integrity sha512-It0Sne6P3szg7JIi6CgKbvTZoMjxBZhcv91ZrqrNuaZQfB5WoqYYbzCUOq89YR+VY8juY9M1vDWmDDa2TzfXCw==
 
 "@graphql-tools/merge@8.3.0":
   version "8.3.0"
