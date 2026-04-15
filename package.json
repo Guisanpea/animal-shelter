@@ -88,7 +88,7 @@
     "fishery": "^2.4.0",
     "graphql-zeus": "^7.2.1",
     "jest": "^30.3.0",
-    "prettier": "^3.8.2",
+    "prettier": "^3.8.3",
     "supertest": "^7.2.2",
     "ts-jest": "^29.4.9",
     "ts-loader": "^9.5.7",
