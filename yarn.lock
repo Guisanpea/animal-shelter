@@ -1838,10 +1838,10 @@
     "@emnapi/runtime" "^1.4.3"
     "@tybys/wasm-util" "^0.9.0"
 
-"@nestjs/apollo@^13.4.0":
-  version "13.4.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/apollo/-/apollo-13.4.0.tgz#60f5c81ec164fb133734cbb7bfab10d8cd2cd129"
-  integrity sha512-dXfgdBDUXl7OwJ/1t1yQtifhh9E21zTwB8Tayi/2xsBJYY5t0Bcfi/xyVYT6IxNDb5i8JpsiAJmnu7bTsvIIzw==
+"@nestjs/apollo@^13.4.1":
+  version "13.4.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/apollo/-/apollo-13.4.1.tgz#5fcde8f721c64170495eadda1b6cb0cfcbc4da93"
+  integrity sha512-SCFQ3kbf8Tj3neXWtwNzddVWNrNdQXvz9l7KZncWvzhdZ/TV5Uh3jxfWCl4NnNI1BSvDkQSbd90tAVCWV5x5Aw==
   dependencies:
     "@apollo/server-plugin-landing-page-graphql-playground" "4.0.1"
     iterall "1.3.0"
