@@ -914,10 +914,10 @@
     "@eslint/core" "^1.2.1"
     levn "^0.4.1"
 
-"@faker-js/faker@^10.5.0":
-  version "10.5.0"
-  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-10.5.0.tgz#d2f6a8c7f08d087ac5f077d6babd0821edf24c03"
-  integrity sha512-bsxD8WLS5lIj7aaoCx1YJkktqYj5vlBUE6HWzu2Q51ksrGJ0H737ECCKlFU7Yf8Br45z9t99frBp/J7kzbMPAg==
+"@faker-js/faker@^10.6.0":
+  version "10.6.0"
+  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-10.6.0.tgz#b6b0248f0f59e0ac69ad6803167d58bb824f929d"
+  integrity sha512-3RQHgEtvL1Frl/d1cSreo7qhJ3Gk1OdNUai/CtZ8G+wYeRQnJih3s9xJ9/kgYekPQRdwgh0HXRPqMlzWGwivIQ==
 
 "@graphql-tools/merge@8.3.0":
   version "8.3.0"
