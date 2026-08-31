@@ -37,7 +37,7 @@
     "@nestjs/jwt": "^11.0.2",
     "@nestjs/passport": "^11.0.5",
     "@nestjs/platform-express": "^11.2.3",
-    "@nestjs/typeorm": "^11.0.3",
+    "@nestjs/typeorm": "^12.0.1",
     "apollo-server-express": "^3.13.0",
     "axios": "^1.19.0",
     "commander": "^15.0.0",
