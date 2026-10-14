@@ -5649,10 +5649,10 @@ globals@^11.1.0:
   resolved "https://registry.yarnpkg.com/globals/-/globals-11.12.0.tgz#ab8795338868a0babd8525758018c2a7eb95c42e"
   integrity sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA==
 
-google-auth-library@^11.1.0:
-  version "11.1.0"
-  resolved "https://registry.yarnpkg.com/google-auth-library/-/google-auth-library-11.1.0.tgz#3b9270a497ac7d4632928d2065876cebd745c0fc"
-  integrity sha512-YIBq5KNoHQrZ9PM4PeodDBqqBGlSTIxh1zibN8u3zNIO9UJg8gvKuCpdKV7fWXhsZ2zRkU6FhGrgKNgLJ2IRgw==
+google-auth-library@^11.2.0:
+  version "11.2.0"
+  resolved "https://registry.yarnpkg.com/google-auth-library/-/google-auth-library-11.2.0.tgz#a23f49458f6ea537ec3ca1e6675d17b5dfdfc4e6"
+  integrity sha512-R9/Dwc3swSur04RnizQ6EBUmmcno2cC5cAKtrG/C+pY+W7c5l6rSnFWgMkR7NSYj1n6XWmb/KhcjxGslWm4yIA==
   dependencies:
     base64-js "^1.3.0"
     ecdsa-sig-formatter "^1.0.11"
