@@ -42,7 +42,7 @@
     "axios": "^1.21.0",
     "commander": "^15.1.0",
     "cookie-parser": "^1.4.7",
-    "google-auth-library": "^11.3.3",
+    "google-auth-library": "^11.3.4",
     "graphql": "^16.15.0",
     "nestjs-console": "^10.0.0",
     "next": "^16.4.5",
