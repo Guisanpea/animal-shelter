@@ -4223,12 +4223,7 @@ commander@2.11.x:
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.11.0.tgz#157152fd1e7a6c8d98a5b715cf376df928004563"
   integrity sha512-b0553uYA5YAEGgyYIGYROzKQ7X5RAqedkfjiZxwi0kL1g3bOaBNNZfYkzt/CL0umgD5wc9Jec2FbB98CjkMRvQ==
 
-"commander@^11.0.0 || ^12.0.0 || ^13.0.0":
-  version "13.1.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-13.1.0.tgz#776167db68c78f38dcce1f9b8d7b8b9a488abf46"
-  integrity sha512-/rFeCpNJQbhSZjGVwO9RFV3xPqbnERS8MmIQzCtD/zl6gpJuV/bMLuN92oG3F7d8oDEHHRrujSXNUr8fpjntKw==
-
-commander@^15.1.0:
+"commander@^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0", commander@^15.1.0:
   version "15.1.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-15.1.0.tgz#397e6a353fda8e9d4e1eb9e3c0c28644cfd69406"
   integrity sha512-cgnQ88TRrWcC7pVq46RzJVRMktu3W2RcbnoidnfBsl1bmDCBwJS/udcIZpKoCrbAYYaCqsz1yZCVIgbIaU3ddQ==
@@ -7720,12 +7715,12 @@ neo-async@^2.6.2:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
-nestjs-console@^10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/nestjs-console/-/nestjs-console-10.0.0.tgz#ce91d5c603badbb13abcbed414c39a6dc92c9987"
-  integrity sha512-LlUzseDtbUoPUkM+/83NE00BytX29CyWpb4NbH57f7p1+DGA1Yb5OA9WaIZmy/uKM7Yjqb6HQeWRXUlvkkcQnw==
+nestjs-console@^11.0.0:
+  version "11.0.0"
+  resolved "https://registry.yarnpkg.com/nestjs-console/-/nestjs-console-11.0.0.tgz#c7b7eb62c236a7634ddfa86073174ea61f19b2b5"
+  integrity sha512-edjul/gEfdvKR2ek8ivxt7LPFxWaCR4uOfuEdNm+XrFeLnXKxi+1j7psWgIjkZiS226oc2UoL3bhVdrfL4OElg==
   dependencies:
-    commander "^11.0.0 || ^12.0.0 || ^13.0.0"
+    commander "^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0"
 
 next@^16.4.6:
   version "16.4.6"
