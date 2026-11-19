@@ -7773,10 +7773,10 @@ neo-async@^2.6.2:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
-nestjs-console@^11.0.0:
-  version "11.0.0"
-  resolved "https://registry.yarnpkg.com/nestjs-console/-/nestjs-console-11.0.0.tgz#c7b7eb62c236a7634ddfa86073174ea61f19b2b5"
-  integrity sha512-edjul/gEfdvKR2ek8ivxt7LPFxWaCR4uOfuEdNm+XrFeLnXKxi+1j7psWgIjkZiS226oc2UoL3bhVdrfL4OElg==
+nestjs-console@^12.0.0:
+  version "12.0.0"
+  resolved "https://registry.yarnpkg.com/nestjs-console/-/nestjs-console-12.0.0.tgz#197a4d4648994acb17bb07c15ed6ca4de21e9a80"
+  integrity sha512-50lUcIL/uty+8wYTE9N5q8Vnn8UQdeL/XDzy7LExHX8aF2/Nnhr4oV9H6oeJYc4o3NW/1WaZ9y21lC0OclX8xw==
   dependencies:
     commander "^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0"
 
